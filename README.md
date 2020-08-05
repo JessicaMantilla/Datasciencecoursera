@@ -1,2 +1,2 @@
-# Datasciencecoursera
+# datasciencecoursera
 This is a repository called Datasciencecoursera
